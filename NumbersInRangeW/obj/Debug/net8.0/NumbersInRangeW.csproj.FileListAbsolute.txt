@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\NumbersInRangeW\NumbersInRangeW\bin\Debug\net8.0\NumbersInRangeW.exe
+C:\Users\ninag\RiderProjects\NumbersInRangeW\NumbersInRangeW\bin\Debug\net8.0\NumbersInRangeW.deps.json
+C:\Users\ninag\RiderProjects\NumbersInRangeW\NumbersInRangeW\bin\Debug\net8.0\NumbersInRangeW.runtimeconfig.json
+C:\Users\ninag\RiderProjects\NumbersInRangeW\NumbersInRangeW\bin\Debug\net8.0\NumbersInRangeW.dll
+C:\Users\ninag\RiderProjects\NumbersInRangeW\NumbersInRangeW\bin\Debug\net8.0\NumbersInRangeW.pdb
+C:\Users\ninag\RiderProjects\NumbersInRangeW\NumbersInRangeW\obj\Debug\net8.0\NumbersInRangeW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\NumbersInRangeW\NumbersInRangeW\obj\Debug\net8.0\NumbersInRangeW.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\NumbersInRangeW\NumbersInRangeW\obj\Debug\net8.0\NumbersInRangeW.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\NumbersInRangeW\NumbersInRangeW\obj\Debug\net8.0\NumbersInRangeW.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\NumbersInRangeW\NumbersInRangeW\obj\Debug\net8.0\NumbersInRangeW.dll
+C:\Users\ninag\RiderProjects\NumbersInRangeW\NumbersInRangeW\obj\Debug\net8.0\refint\NumbersInRangeW.dll
+C:\Users\ninag\RiderProjects\NumbersInRangeW\NumbersInRangeW\obj\Debug\net8.0\NumbersInRangeW.pdb
+C:\Users\ninag\RiderProjects\NumbersInRangeW\NumbersInRangeW\obj\Debug\net8.0\NumbersInRangeW.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\NumbersInRangeW\NumbersInRangeW\obj\Debug\net8.0\ref\NumbersInRangeW.dll
